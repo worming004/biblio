@@ -7,70 +7,72 @@ date: 2023-02-14T19:34:46+01:00
 
 ## Code patterns, architectures and practices
 
+* Clean Agile
+* Clean Architecture
 * Domain Driven Design
+* Extreme Programming Explained
+* Fundamentals of Software Architecture
+* Head First Design Patterns
 * Implementing Domain Driven Design
   *  Remy
 * Just Enough Software Architecture
 * Patterns of Entreprise Application Architecture
-* Head First Design Patterns
-* Clean Architecture
-* Working Effectively with Legacy Code
-* Clean Agile
-* The Pragmatic Programmer
-* Test Driven Development
 * Refactoring
-* Fundamentals of Software Architecture
 * Software Architecture: the Hard Part
-* Extreme Programming Explained
+* Test Driven Development
+* The Pragmatic Programmer
+* Working Effectively with Legacy Code
 
 ## DevOps, between architecture, microservices and kubernetes
 
-* Continuous Delivery
-* Microservices Patterns
-* Le test en mode Agile
 * Ansible for DevOps
-* Lean Microservices
-* The Mythical Man Month
-* Building Microservices
-* Terraform Up & Running
-* Design Patterns for Cloud Native Applications
-* Learning Dapr
-* Building Evolutionary Architecture
-* Entreprise Integration Patterns
 * Building Event-Driven Microservice
+* Building Evolutionary Architecture
+* Building Microservices
+* Continuous Delivery
+* Design Patterns for Cloud Native Applications
+* Entreprise Integration Patterns
+* Le test en mode Agile
+* Lean Microservices
+* Learning Dapr
+* Microservices Patterns
+* Terraform Up & Running
+* The Mythical Man Month
 
 ## Kubernetes tooling
 
-* Kubernetes: Up & Running
 * Cloud Native DevOps with Kubernetes
-* Kubernetes - Guide pratique
-* Learning helm
+* Istio in Action
 * Kubernetes in Action
+* Kubernetes: Up & Running
+* Kubernetes - Guide pratique
 * Kubernetes Patterns
+* Learning helm
 * Prometheus Up & Running
 
 ## Business and management
 
-* Lean pour les managers
+* Crossing the Chasm
 * Hyperscale And Microcare
-* Le principe 80/20
 * Le modele google
+* Le principe 80/20
+* Lean pour les managers
 
 ## Language specific
 
 ### Go
 
+* Cloud Native Go
 * Concurrency in Go
 * The Go Programming Language
 
 ### Python (and IA)
 
-* Python Pocket Reference
-* Introduction to Machine Learning with Python
-* Hands-On Machine Learning with Scikit-Learn & Tensorflow
-* The Quick Python Book
 * Fluent Python
-* Cloud Native Go
+* Hands-On Machine Learning with Scikit-Learn & Tensorflow
+* Introduction to Machine Learning with Python
+* Python Pocket Reference
+* The Quick Python Book
 
 ### Elixir
 
@@ -84,14 +86,14 @@ date: 2023-02-14T19:34:46+01:00
 
 ## Databases, event broker and performances
 
-* Neo4j in Action
-* Kafka: The Definitive Guide
-* Elasticsearch: The Definitive
-* Graph Databases
 * Base de donnees
-* MongoDB: The Definitive Guide
 * Cassandra: The Definitive Guide
 * Designing Data-Intensive Applications
+* Elasticsearch: The Definitive
+* Graph Databases
+* Kafka: The Definitive Guide
+* MongoDB: The Definitive Guide
+* Neo4j in Action
 
 _is there a typo or miss tag somewhere ? Yes_
 
