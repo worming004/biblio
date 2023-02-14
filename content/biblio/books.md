@@ -95,5 +95,5 @@ date: 2023-02-14T19:34:46+01:00
 * MongoDB: The Definitive Guide
 * Neo4j in Action
 
-_is there a typo or miss tag somewhere ? Yes_
+_is there a typo or miss arrangement somewhere ? Yes, probably. Some books could be pushed into multiple categories_
 
