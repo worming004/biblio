@@ -1,4 +1,7 @@
 baseURL = 'http://biblio.craftlabit.be'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Biblio'
 theme = 'ananke'
+
+[params]
+  mainSections = ['biblio']
