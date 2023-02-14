@@ -5,14 +5,13 @@ date: 2023-02-14T19:34:46+01:00
 
 # Here is my personnal library
 
-## Code patterns and practices
+## Code patterns, architectures and practices
 
-* Domain Driven Development
+* Domain Driven Design
+* Implementing Domain Driven Design
+  *  Remy
 * Just Enough Software Architecture
-* Building Evolutionnary Architecture
 * Patterns of Entreprise Application Architecture
-* Entreprise Integration Patterns
-* Building Event-Driven Microservice
 * Head First Design Patterns
 * Clean Architecture
 * Working Effectively with Legacy Code
@@ -20,26 +19,42 @@ date: 2023-02-14T19:34:46+01:00
 * The Pragmatic Programmer
 * Test Driven Development
 * Refactoring
+* Fundamentals of Software Architecture
+* Software Architecture: the Hard Part
+* Extreme Programming Explained
 
-## Architecture
-
-
-## Business and management
-
-* Lean pour les managers
-* Hyperscale And Microcare
-* Le principe 80/20
-
-## Kubernetes tooling
-
-
-## DevOps
+## DevOps, between architecture, microservices and kubernetes
 
 * Continuous Delivery
 * Microservices Patterns
 * Le test en mode Agile
 * Ansible for DevOps
 * Lean Microservices
+* The Mythical Man Month
+* Building Microservices
+* Terraform Up & Running
+* Design Patterns for Cloud Native Applications
+* Learning Dapr
+* Building Evolutionary Architecture
+* Entreprise Integration Patterns
+* Building Event-Driven Microservice
+
+## Kubernetes tooling
+
+* Kubernetes: Up & Running
+* Cloud Native DevOps with Kubernetes
+* Kubernetes - Guide pratique
+* Learning helm
+* Kubernetes in Action
+* Kubernetes Patterns
+* Prometheus Up & Running
+
+## Business and management
+
+* Lean pour les managers
+* Hyperscale And Microcare
+* Le principe 80/20
+* Le modele google
 
 ## Language specific
 
@@ -67,7 +82,6 @@ date: 2023-02-14T19:34:46+01:00
 * Concurrency in C# Cookbook
 * Modern Api Design with ASP.NET 2 
 
-
 ## Databases, event broker and performances
 
 * Neo4j in Action
@@ -76,22 +90,8 @@ date: 2023-02-14T19:34:46+01:00
 * Graph Databases
 * Base de donnees
 * MongoDB: The Definitive Guide
-
 * Cassandra: The Definitive Guide
-* Le modele google
-* The Mythical Man Month
-* Building Microservices
-* Kubernetes: Up & Running
-* Cloud Native DevOps with Kubernetes
-* Kubernetes - Guide pratique
 * Designing Data-Intensive Applications
-* Learning helm
-* Kubernetes in Action
-* Design Patterns for Cloud Native Applications
-* Terraform Up & Running
-* Learning Dapr
-* Fundamentals of Software Architecture
-* Extreme Programming Explained
-* Kubernetes Patterns
-* Software Architecture: The Hard Parts
-* Prometheus Up & Running
+
+_is there a typo or miss tag somewhere ? Yes_
+
