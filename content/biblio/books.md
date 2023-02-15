@@ -14,7 +14,7 @@ date: 2023-02-14T19:34:46+01:00
 * Fundamentals of Software Architecture
 * Head First Design Patterns
 * Implementing Domain Driven Design
-  *  Loaned to Remy Thibaut
+  *  Loaned to Rémy Thibaut
 * Just Enough Software Architecture
 * Patterns of Enterprise Application Architecture
 * Refactoring
