@@ -40,7 +40,6 @@ date: 2023-02-14T19:34:46+01:00
 * Learning Dapr
 * Microservices Patterns
 * Terraform Up & Running
-* The Mythical Man Month
 
 ## Kubernetes tooling
 
