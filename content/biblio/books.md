@@ -9,6 +9,7 @@ date: 2023-02-14T19:34:46+01:00
 
 * Clean Agile
 * Clean Architecture
+* Clean Code
 * Domain Driven Design
 * Extreme Programming Explained
 * Fundamentals of Software Architecture
@@ -21,6 +22,7 @@ date: 2023-02-14T19:34:46+01:00
 * Software Architecture: the Hard Part
 * Test Driven Development
 * The Pragmatic Programmer
+* The Clean Coder
 * Working Effectively with Legacy Code
 
 ## DevOps, between business, architecture, microservices and kubernetes
