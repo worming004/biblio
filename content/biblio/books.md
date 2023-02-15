@@ -3,7 +3,7 @@ title: "All books"
 date: 2023-02-14T19:34:46+01:00
 ---
 
-# Here is my personnal library
+# Here is my personal library
 
 ## Code patterns, architectures and practices
 
@@ -14,16 +14,16 @@ date: 2023-02-14T19:34:46+01:00
 * Fundamentals of Software Architecture
 * Head First Design Patterns
 * Implementing Domain Driven Design
-  *  Remy
+  *  Loaned to Remy Thibaut
 * Just Enough Software Architecture
-* Patterns of Entreprise Application Architecture
+* Patterns of Enterprise Application Architecture
 * Refactoring
 * Software Architecture: the Hard Part
 * Test Driven Development
 * The Pragmatic Programmer
 * Working Effectively with Legacy Code
 
-## DevOps, between architecture, microservices and kubernetes
+## DevOps, between business, architecture, microservices and kubernetes
 
 * Ansible for DevOps
 * Building Event-Driven Microservice
@@ -31,7 +31,8 @@ date: 2023-02-14T19:34:46+01:00
 * Building Microservices
 * Continuous Delivery
 * Design Patterns for Cloud Native Applications
-* Entreprise Integration Patterns
+* Devops Handbook 
+* Enterprise Integration Patterns
 * Le test en mode Agile
 * Lean Microservices
 * Learning Dapr
@@ -54,7 +55,7 @@ date: 2023-02-14T19:34:46+01:00
 
 * Crossing the Chasm
 * Hyperscale And Microcare
-* Le modele google
+* Le modèle google
 * Le principe 80/20
 * Lean pour les managers
 
@@ -86,7 +87,7 @@ date: 2023-02-14T19:34:46+01:00
 
 ## Databases, event broker and performances
 
-* Base de donnees
+* Base de données
 * Cassandra: The Definitive Guide
 * Designing Data-Intensive Applications
 * Elasticsearch: The Definitive
