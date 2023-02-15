@@ -58,6 +58,7 @@ date: 2023-02-14T19:34:46+01:00
 * Le modèle google
 * Le principe 80/20
 * Lean pour les managers
+* The Mythical Man Month
 
 ## Language specific
 
