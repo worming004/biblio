@@ -82,5 +82,5 @@ jobs:
           chmod 600 __TEMP_INPUT_KEY_FILE
       - shell: bash
         run: |
-          scp -o StrictHostKeyChecking=no -v -i __TEMP_INPUT_KEY_FILE -r ./html-artifact/* "htmldeploy@dev.craftlabit.be:/var/www/html/$DIR_NAME"
+          scp -o StrictHostKeyChecking=no -v -i __TEMP_INPUT_KEY_FILE -r ./html-artifact/* "htmldeploy@dev.craftlabit.be:/var/www/html/biblio"
 
