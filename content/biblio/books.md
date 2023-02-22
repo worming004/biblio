@@ -59,7 +59,9 @@ date: 2023-02-14T19:34:46+01:00
 * Le modèle google
 * Le principe 80/20
 * Lean pour les managers
+* Team Topology
 * The Mythical Man Month
+* The Unicorn Projet
 
 ## Language specific
 
