@@ -1,6 +1,5 @@
 ---
 title: "All books"
-date: 2023-02-14T19:34:46+01:00
 ---
 
 # Here is my personal library
