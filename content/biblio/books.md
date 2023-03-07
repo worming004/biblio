@@ -49,10 +49,12 @@ title: "All books"
 * Kubernetes - Guide pratique
 * Kubernetes Patterns
 * Learning helm
+* Logging in action
 * Prometheus Up & Running
 
 ## Business and management
 
+* Accelerate
 * Crossing the Chasm
 * Hyperscale And Microcare
 * Le modèle google
