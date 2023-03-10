@@ -56,6 +56,7 @@ title: "All books"
 
 * Accelerate
 * Crossing the Chasm
+* Green It
 * Hyperscale And Microcare
 * Le modèle google
 * Le principe 80/20
@@ -63,7 +64,6 @@ title: "All books"
 * Team Topology
 * The Mythical Man Month
 * The Unicorn Projet
-* Green It
 
 ## Language specific
 
