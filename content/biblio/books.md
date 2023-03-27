@@ -63,7 +63,8 @@ title: "All books"
 * Lean pour les managers
 * Team Topology
 * The Mythical Man Month
-* The Unicorn Projet
+* The Phoenix Project
+* The Unicorn Project
 
 ## Language specific
 
