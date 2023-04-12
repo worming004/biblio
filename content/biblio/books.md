@@ -62,6 +62,7 @@ title: "All books"
 * Le principe 80/20
 * Lean pour les managers
 * Team Topology
+  *  Loaned to Patrick Rompen
 * The Mythical Man Month
 * The Phoenix Project
 * The Unicorn Project
