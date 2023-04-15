@@ -11,8 +11,10 @@ title: "All books"
 * Clean Code
 * Domain Driven Design
 * Extreme Programming Explained
+  *  Loaned to Marc Caucheteux
 * Fundamentals of Software Architecture
 * Head First Design Patterns
+  *  Loaned to Marc Caucheteux
 * Implementing Domain Driven Design
   *  Loaned to Rémy Thibaut
 * Just Enough Software Architecture
