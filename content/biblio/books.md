@@ -6,10 +6,13 @@ title: "All books"
 
 ## Code patterns, architectures and practices
 
+* Architecting for Scale
+* Building Micro-Frontends
 * Clean Agile
 * Clean Architecture
 * Clean Code
 * Domain Driven Design
+* Efficient Linux at the Command Line
 * Extreme Programming Explained
   *  Loaned to Marc Caucheteux
 * Fundamentals of Software Architecture
@@ -18,8 +21,14 @@ title: "All books"
 * Implementing Domain Driven Design
   *  Loaned to Rémy Thibaut
 * Just Enough Software Architecture
+* Learning Domain-Driven Design
+* Linux Cookbook
+* Mastering API Architecture
+* Microservices in Action
+* Monolith to Microservices
 * Patterns of Enterprise Application Architecture
 * Refactoring
+* RESTful Web API Patterns & Practices Cookbook
 * Software Architecture: the Hard Part
 * Test Driven Development
 * The Pragmatic Programmer
@@ -32,6 +41,7 @@ title: "All books"
 * Building Event-Driven Microservice
 * Building Evolutionary Architecture
 * Building Microservices
+* Container Security
 * Continuous Delivery
 * Design Patterns for Cloud Native Applications
 * Devops Handbook 
@@ -45,13 +55,17 @@ title: "All books"
 ## Kubernetes tooling
 
 * Cloud Native DevOps with Kubernetes
+* Hacking Kubernetes
 * Istio in Action
+* Kubernetes Best Practices
 * Kubernetes in Action
 * Kubernetes: Up & Running
 * Kubernetes - Guide pratique
 * Kubernetes Patterns
 * Learning helm
 * Logging in action
+* OpenShift for Developers (x2)
+* Podman in action
 * Prometheus Up & Running
 
 ## Business and management
@@ -63,6 +77,7 @@ title: "All books"
 * Le modèle google
 * Le principe 80/20
 * Lean pour les managers
+* Software Engineering at Google
 * Team Topology
   *  Loaned to Patrick Rompen
 * The Mythical Man Month
@@ -95,13 +110,14 @@ title: "All books"
 * Concurrency in C# Cookbook
 * Modern Api Design with ASP.NET 2 
 
-## Databases, event broker and performances
+## Databases, event broker, tools and performances
 
 * Base de données
 * Cassandra: The Definitive Guide
 * Designing Data-Intensive Applications
 * Elasticsearch: The Definitive
 * Graph Databases
+* Hugo in Action
 * Kafka: The Definitive Guide
 * MongoDB: The Definitive Guide
 * Neo4j in Action
