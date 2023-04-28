@@ -65,6 +65,8 @@ title: "All books"
 * Learning helm
 * Logging in action
 * OpenShift for Developers (x2)
+  * Loaned to Kevin Rapaille
+  * Loaned to Steve Mihy 
 * Podman in action
 * Prometheus Up & Running
 
@@ -108,6 +110,7 @@ title: "All books"
 ### C#
 
 * Concurrency in C# Cookbook
+  * Loaned to Alexandre Pagnieau 
 * Modern Api Design with ASP.NET 2 
 
 ## Databases, event broker, tools and performances
