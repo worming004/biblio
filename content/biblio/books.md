@@ -31,6 +31,7 @@ title: "All books"
 * RESTful Web API Patterns & Practices Cookbook
 * Software Architecture: the Hard Part
 * Test Driven Development
+  * Loaned to Kevin Renson
 * The Pragmatic Programmer
 * The Clean Coder
 * Working Effectively with Legacy Code
