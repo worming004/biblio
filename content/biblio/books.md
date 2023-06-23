@@ -40,6 +40,7 @@ title: "All books"
 
 * Ansible for DevOps
 * Building Event-Driven Microservice
+  * Loaned to Kevin Rapaille
 * Building Evolutionary Architecture
 * Building Microservices
 * Container Security
