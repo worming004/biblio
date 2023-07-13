@@ -8,6 +8,7 @@ title: "All books"
 
 * Architecting for Scale
 * Building Micro-Frontends
+  * Loaned to Franck Charlier
 * Clean Agile
 * Clean Architecture
 * Clean Code
