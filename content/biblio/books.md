@@ -23,6 +23,7 @@ title: "All books"
   *  Loaned to Rémy Thibaut
 * Just Enough Software Architecture
 * Learning Domain-Driven Design
+* Learning the bash Shell: Unix Shell Programming
 * Linux Cookbook
 * Mastering API Architecture
 * Microservices in Action
@@ -30,11 +31,13 @@ title: "All books"
 * Patterns of Enterprise Application Architecture
 * Refactoring
 * RESTful Web API Patterns & Practices Cookbook
+* Street Coder: The Rules to Break and How to Break Them
 * Software Architecture: the Hard Part
 * Test Driven Development
   * Loaned to Kevin Renson
 * The Pragmatic Programmer
 * The Clean Coder
+* Unit Testing Principles, Practice, and Patterns
 * Working Effectively with Legacy Code
 
 ## DevOps, between business, architecture, microservices and kubernetes
