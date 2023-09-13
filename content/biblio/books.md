@@ -72,7 +72,6 @@ title: "All books"
 * Logging in action
 * OpenShift for Developers (x2)
   * Loaned to Kevin Rapaille
-  * Loaned to Steve Mihy 
 * Podman in action
 * Prometheus Up & Running
 
