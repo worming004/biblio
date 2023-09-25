@@ -8,7 +8,6 @@ title: "All books"
 
 * Architecting for Scale
 * Building Micro-Frontends
-  * Loaned to Franck Charlier
 * Clean Agile
 * Clean Architecture
 * Clean Code
@@ -44,7 +43,6 @@ title: "All books"
 
 * Ansible for DevOps
 * Building Event-Driven Microservice
-  * Loaned to Kevin Rapaille
 * Building Evolutionary Architecture
 * Building Microservices
 * Container Security
@@ -63,6 +61,7 @@ title: "All books"
 * Cloud Native DevOps with Kubernetes
 * Hacking Kubernetes
 * Istio in Action
+  * Loaned to VERHOEST William
 * Kubernetes Best Practices
 * Kubernetes in Action
 * Kubernetes: Up & Running
