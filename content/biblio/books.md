@@ -11,6 +11,7 @@ title: "All books"
 * Clean Agile
 * Clean Architecture
 * Clean Code
+  *  Loaned to Mickael Renier
 * Domain Driven Design
 * Efficient Linux at the Command Line
 * Extreme Programming Explained
