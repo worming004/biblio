@@ -22,6 +22,7 @@ title: "All books"
 * Implementing Domain Driven Design
   *  Loaned to Rémy Thibaut
 * Just Enough Software Architecture
+* 
 * Learning Domain-Driven Design
 * Learning the bash Shell: Unix Shell Programming
 * Linux Cookbook
@@ -90,6 +91,11 @@ title: "All books"
 * The Mythical Man Month
 * The Phoenix Project
 * The Unicorn Project
+
+## Cyber Security
+
+* Threat Modeling Designing For Security
+* Threats What Every Engineer Should Learn From Star Wars
 
 ## Language specific
 
