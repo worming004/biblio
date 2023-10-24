@@ -94,6 +94,9 @@ title: "All books"
 
 ## Cyber Security
 
+* Cybersecurity Myths and Misconceptions Avoiding the Hazards and Pitfalls that Derail Us
+* Security Chaos Engineering Sustaining Resilience in Software and Systems
+* Threat Modeling A Practical Guide for Development Teams
 * Threat Modeling Designing For Security
 * Threats What Every Engineer Should Learn From Star Wars
 
@@ -135,6 +138,7 @@ title: "All books"
 * Kafka: The Definitive Guide
 * MongoDB: The Definitive Guide
 * Neo4j in Action
+* PostreSQL Up & Running
 
 _is there a typo or miss arrangement somewhere ? Yes, probably. Some books could be pushed into multiple categories_
 
