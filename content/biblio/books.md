@@ -22,7 +22,6 @@ title: "All books"
 * Implementing Domain Driven Design
   *  Loaned to Rémy Thibaut
 * Just Enough Software Architecture
-* 
 * Learning Domain-Driven Design
 * Learning the bash Shell: Unix Shell Programming
 * Linux Cookbook
