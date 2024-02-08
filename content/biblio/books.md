@@ -62,7 +62,6 @@ title: "All books"
 * Cloud Native DevOps with Kubernetes
 * Hacking Kubernetes
 * Istio in Action
-  * Loaned to VERHOEST William
 * Kubernetes Best Practices
 * Kubernetes in Action
 * Kubernetes: Up & Running
