@@ -17,8 +17,8 @@ title: "All books"
 * Extreme Programming Explained
 * Fundamentals of Software Architecture
 * Head First Design Patterns
+  *  Loaned to Julien Huart
 * Implementing Domain Driven Design
-  *  Loaned to Rémy Thibaut
 * Just Enough Software Architecture
 * Learning Domain-Driven Design
 * Learning the bash Shell: Unix Shell Programming
