@@ -83,7 +83,6 @@ title: "All books"
 * Lean pour les managers
 * Software Engineering at Google
 * Team Topology
-  *  Loaned to Patrick Rompen
 * The Mythical Man Month
 * The Phoenix Project
 * The Unicorn Project
