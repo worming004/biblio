@@ -55,7 +55,6 @@ title: "All books"
 * Lean Microservices
 * Learning Dapr
 * Microservices Patterns
-  * To PA Delsaut
 * Terraform Up & Running
 
 ## Kubernetes tooling
