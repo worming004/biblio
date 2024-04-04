@@ -33,7 +33,6 @@ title: "All books"
 * Street Coder: The Rules to Break and How to Break Them
 * Software Architecture: the Hard Part
 * Test Driven Development
-  * Loaned to Kevin Renson
 * The Pragmatic Programmer
 * The Clean Coder
 * Unit Testing Principles, Practice, and Patterns
