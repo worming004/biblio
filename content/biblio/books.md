@@ -10,7 +10,7 @@ title: "All books"
 * Building Micro-Frontends
 * Clean Agile
 * Clean Architecture
-  * To PA Delsaut
+  * Loaned to PA Delsaut
 * Clean Code
   *  Loaned to Mickael Renier
 * Domain Driven Design
@@ -43,7 +43,7 @@ title: "All books"
 
 * Ansible for DevOps
 * Building Event-Driven Microservices
-  * To PA Delsaut
+  * Loaned to PA Delsaut
 * Building Evolutionary Architecture
 * Building Microservices
 * Container Security
