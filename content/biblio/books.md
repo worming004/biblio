@@ -47,6 +47,7 @@ title: "All books"
 * Building Microservices
 * Container Security
 * Continuous Delivery
+* Continuous Integration
 * Design Patterns for Cloud Native Applications
 * Devops Handbook 
 * Enterprise Integration Patterns
