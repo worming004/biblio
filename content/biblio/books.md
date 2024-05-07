@@ -12,7 +12,6 @@ title: "All books"
 * Clean Architecture
   * Loaned to PA Delsaut
 * Clean Code
-  *  Loaned to Mickael Renier
 * Domain Driven Design
 * Efficient Linux at the Command Line
 * Extreme Programming Explained
