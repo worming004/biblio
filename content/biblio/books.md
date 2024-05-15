@@ -41,8 +41,8 @@ title: "All books"
 
 * Ansible for DevOps
 * Azure Security
+  * Loaned to William Verhoest
 * Building Event-Driven Microservices
-  * Loaned to PA Delsaut
 * Building Evolutionary Architecture
 * Building Microservices
 * Container Security
@@ -61,6 +61,7 @@ title: "All books"
 ## Kubernetes tooling
 
 * BDD In Action Second Edition
+    * Forem office
 * Cloud Native DevOps with Kubernetes
 * Hacking Kubernetes
 * Istio in Action
@@ -140,15 +141,18 @@ title: "All books"
 * Designing Data-Intensive Applications
 * Elasticsearch: The Definitive
 * Event Streams In Action
+    * Forem office
 * Graph Databases
 * Hugo in Action
 * Kafka: The Definitive Guide
 * Kafka Streams In Action Second Edition
+    * Forem office
 * MongoDB: The Definitive Guide
 * Neo4j in Action
 * PostreSQL Up & Running
 
 ## Other
+
 * HTTP/2 In Action
 * Real-World Cryptography
 
