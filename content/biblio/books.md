@@ -40,6 +40,7 @@ title: "All books"
 ## DevOps, between business, architecture, microservices and kubernetes
 
 * Ansible for DevOps
+* Azure Security
 * Building Event-Driven Microservices
   * Loaned to PA Delsaut
 * Building Evolutionary Architecture
@@ -54,10 +55,12 @@ title: "All books"
 * Lean Microservices
 * Learning Dapr
 * Microservices Patterns
+* Terraform In Action
 * Terraform Up & Running
 
 ## Kubernetes tooling
 
+* BDD In Action Second Edition
 * Cloud Native DevOps with Kubernetes
 * Hacking Kubernetes
 * Istio in Action
@@ -69,7 +72,7 @@ title: "All books"
 * Learning helm
 * Logging in action
 * OpenShift for Developers (x2)
-  * Loaned to Kevin Rapaille
+* Platform Engineering on Kubernetes
 * Podman in action
 * Prometheus Up & Running
 
@@ -96,10 +99,11 @@ title: "All books"
 * Threat Modeling Designing For Security
 * Threats What Every Engineer Should Learn From Star Wars
 
-## Language specific
+## Language and protocol specific
 
 ### Go
 
+* Build an Orchestrator in Go (from scratch)
 * Cloud Native Go
 * Concurrency in Go
 * The Go Programming Language
@@ -114,27 +118,42 @@ title: "All books"
 
 ### Elixir
 
-* Elixir in Action
+* Elixir in Action Second Edition
+* Elixir in Action Third Edition
 * Phoenix in Action
 
 ### C#
 
 * Concurrency in C# Cookbook
-  * Loaned to Alexandre Pagnieau 
-* Modern Api Design with ASP.NET 2 
+  * Loaned to Alexandre Pagnieau
+* Dependency Injection
+* Modern Api Design with ASP.NET 2
 
-## Databases, event broker, tools and performances
+### F#
+
+* F# In Action
+
+## Databases, event broker, tools, network and performances
 
 * Base de données
 * Cassandra: The Definitive Guide
 * Designing Data-Intensive Applications
 * Elasticsearch: The Definitive
+* Event Streams In Action
 * Graph Databases
 * Hugo in Action
 * Kafka: The Definitive Guide
+* Kafka Streams In Action Second Edition
 * MongoDB: The Definitive Guide
 * Neo4j in Action
 * PostreSQL Up & Running
+
+## Other
+* HTTP/2 In Action
+* Real-World Cryptography
+
+
+
 
 _is there a typo or miss arrangement somewhere ? Yes, probably. Some books could be pushed into multiple categories_
 
