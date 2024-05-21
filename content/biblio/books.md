@@ -29,6 +29,7 @@ title: "All books"
 * Patterns of Enterprise Application Architecture
 * Refactoring
 * RESTful Web API Patterns & Practices Cookbook
+* Security Chaos Engineering Sustaining Resilience in Software and Systems
 * Street Coder: The Rules to Break and How to Break Them
 * Software Architecture: the Hard Part
 * Test Driven Development
@@ -95,9 +96,11 @@ title: "All books"
 ## Cyber Security
 
 * Cybersecurity Myths and Misconceptions Avoiding the Hazards and Pitfalls that Derail Us
-* Security Chaos Engineering Sustaining Resilience in Software and Systems
+    * Loaned to Maï Leroy
 * Threat Modeling A Practical Guide for Development Teams
+    * Loaned to Maï Leroy
 * Threat Modeling Designing For Security
+    * Loaned to Maï Leroy
 * Threats What Every Engineer Should Learn From Star Wars
 
 ## Language and protocol specific
