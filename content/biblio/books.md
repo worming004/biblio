@@ -144,7 +144,7 @@ title: "All books"
 * Designing Data-Intensive Applications
 * Elasticsearch: The Definitive
 * Event Streams In Action
-    * Forem office
+    * Loaned to Bruno Tiémélé
 * Graph Databases
 * Hugo in Action
 * Kafka: The Definitive Guide
