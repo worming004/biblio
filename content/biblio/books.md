@@ -21,6 +21,7 @@ title: "All books"
 * Implementing Domain Driven Design
 * Just Enough Software Architecture
 * Learning Domain-Driven Design
+  * Loaned to PA Delsaut
 * Learning the bash Shell: Unix Shell Programming
 * Linux Cookbook
 * Mastering API Architecture
