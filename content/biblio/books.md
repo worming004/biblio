@@ -130,7 +130,6 @@ title: "All books"
 ### C#
 
 * Concurrency in C# Cookbook
-  * Loaned to Alexandre Pagnieau
 * Dependency Injection
 * Modern Api Design with ASP.NET 2
 
