@@ -6,6 +6,7 @@ title: "All books"
 
 ## Code patterns, architectures and practices
 
+- Advanced Algorithms and Data Structures
 - Architecting for Scale
 - Building Micro-Frontends
 - Clean Architecture
@@ -43,6 +44,7 @@ title: "All books"
 ## DevOps, between business, architecture, microservices and kubernetes
 
 - Ansible for DevOps
+- Architecture Modernization
 - Azure Security
   - Loaned to William Verhoest
 - Building Event-Driven Microservices
@@ -119,7 +121,10 @@ title: "All books"
 - Build an Orchestrator in Go (from scratch)
 - Cloud Native Go
 - Concurrency in Go
+- gRPC Microservices in Go
+- Learn Concurrent Programming with Go
 - The Go Programming Language
+- 100 Go Mistakes
 
 ### Python (and IA)
 
@@ -162,6 +167,7 @@ title: "All books"
   - Forem office
 - MongoDB: The Definitive Guide
 - Neo4j in Action
+- ScyllaDB In Action
 - PostreSQL Up & Running
 
 ## Other
