@@ -108,6 +108,7 @@ title: "All books"
 
 - Cybersecurity Myths and Misconceptions Avoiding the Hazards and Pitfalls that Derail Us
   - Loaned to Maï Leroy
+- Real-World Cryptography
 - Threat Modeling A Practical Guide for Development Teams
   - Loaned to Maï Leroy
 - Threat Modeling Designing For Security
@@ -115,6 +116,10 @@ title: "All books"
 - Threats What Every Engineer Should Learn From Star Wars
 
 ## Language and protocol specific
+
+### HTTP
+
+- HTTP/2 In Action
 
 ### Go
 
@@ -169,11 +174,6 @@ title: "All books"
 - Neo4j in Action
 - ScyllaDB In Action
 - PostreSQL Up & Running
-
-## Other
-
-- HTTP/2 In Action
-- Real-World Cryptography
 
 _is there a typo or miss arrangement somewhere ? Yes, probably. Some books could be pushed into multiple categories_
 
