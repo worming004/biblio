@@ -12,6 +12,7 @@ title: "All books"
 - Clean Architecture
   - Loaned to PA Delsaut
 - Clean Code
+  - Loaned to Kevin Coekaerts
 - Design Patterns
 - Domain Driven Design
 - Efficient Linux at the Command Line
@@ -69,7 +70,6 @@ title: "All books"
 ## Kubernetes tooling
 
 - BDD In Action Second Edition
-  - Forem office
 - Certified Kubernetes Administrator (CKA) Study Guide
 - Certified Kubernetes Application Developer (CKAD) Study Guide
 - Cloud Native DevOps with Kubernetes
@@ -164,12 +164,10 @@ title: "All books"
   - Loaned to Jordan C.
 - Elasticsearch: The Definitive
 - Event Streams In Action
-  - Forem office
 - Graph Databases
 - Hugo in Action
 - Kafka: The Definitive Guide
 - Kafka Streams In Action Second Edition
-  - Forem office
 - MongoDB: The Definitive Guide
 - Neo4j in Action
 - ScyllaDB In Action
