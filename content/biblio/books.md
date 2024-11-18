@@ -107,12 +107,9 @@ title: "All books"
 ## Cyber Security
 
 - Cybersecurity Myths and Misconceptions Avoiding the Hazards and Pitfalls that Derail Us
-  - Loaned to Maï Leroy
 - Real-World Cryptography
 - Threat Modeling A Practical Guide for Development Teams
-  - Loaned to Maï Leroy
 - Threat Modeling Designing For Security
-  - Loaned to Maï Leroy
 - Threats What Every Engineer Should Learn From Star Wars
 
 ## Language and protocol specific
