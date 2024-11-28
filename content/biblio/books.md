@@ -47,7 +47,6 @@ title: "All books"
 - Ansible for DevOps
 - Architecture Modernization
 - Azure Security
-  - Loaned to William Verhoest
 - Building Event-Driven Microservices
 - Building Evolutionary Architecture
 - Building Microservices
