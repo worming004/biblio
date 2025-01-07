@@ -12,7 +12,6 @@ title: "All books"
 - Clean Architecture
   - Loaned to PA Delsaut
 - Clean Code
-  - Loaned to Kevin Coekaerts
 - Design Patterns
 - Domain Driven Design
 - Efficient Linux at the Command Line
