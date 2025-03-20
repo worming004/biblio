@@ -77,7 +77,6 @@ title: "All books"
 - Istio in Action
 - Kubernetes Best Practices
 - Kubernetes in Action, 1st Edition
-  - Loaned to Jordan C.
 - Kubernetes: Up & Running
 - Kubernetes - Guide pratique
 - Kubernetes Patterns
@@ -159,7 +158,6 @@ title: "All books"
 - Base de données
 - Cassandra: The Definitive Guide
 - Designing Data-Intensive Applications
-  - Loaned to Jordan C.
 - Elasticsearch: The Definitive
 - Event Streams In Action
 - Graph Databases
