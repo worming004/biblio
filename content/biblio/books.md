@@ -145,7 +145,7 @@ title: "All books"
 ### C#
 
 - Concurrency in C# Cookbook
-  - Loaned to Mickael Renier
+  - Loaned to Mickael C.
 - Dependency Injection
 - Modern Api Design with ASP.NET 2
 
