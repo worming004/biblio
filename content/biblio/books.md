@@ -34,11 +34,9 @@ title: "All books"
 - RESTful Web API Patterns & Practices Cookbook
 - Security Chaos Engineering Sustaining Resilience in Software and Systems
 - Street Coder: The Rules to Break and How to Break Them
-  - Loaned to March Caucheteux
 - Software Architecture: the Hard Part
 - Test Driven Development
 - The Pragmatic Programmer
-  - Loaned to March Caucheteux
 - The Clean Coder
 - Unit Testing Principles, Practice, and Patterns
 - Working Effectively with Legacy Code
@@ -91,7 +89,6 @@ title: "All books"
 ## Business and management
 
 - Accelerate
-  - Loaned to Marc Caucheteux
 - Crossing the Chasm
 - Green It
 - Hyperscale And Microcare
