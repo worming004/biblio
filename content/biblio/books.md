@@ -8,14 +8,19 @@ title: "All books"
 
 - Advanced Algorithms and Data Structures
 - Architecting for Scale
+- Bootstrapping Microservices, Second Edition
+- Bootstrapping Microservices with Docker, Kubernetes and Terraform
 - Building Micro-Frontends
 - Clean Architecture
 - Clean Code
 - Design Patterns
 - Domain Driven Design
+- Effective Software Testing
 - Efficient Linux at the Command Line
 - Extreme Programming Explained
+- Five Line of Code
 - Fundamentals of Software Architecture
+- Good Code, Bad Code
 - Head First Design Patterns
   - Loaned to Julien Huart
 - Implementing Domain Driven Design
@@ -23,6 +28,7 @@ title: "All books"
 - Learning Domain-Driven Design
 - Learning the bash Shell: Unix Shell Programming
 - Linux Cookbook
+- "Looks Good To Me"
 - Mastering API Architecture
 - Microservices in Action
 - Monolith to Microservices
@@ -31,6 +37,7 @@ title: "All books"
 - Refactoring
 - RESTful Web API Patterns & Practices Cookbook
 - Security Chaos Engineering Sustaining Resilience in Software and Systems
+- Simple Object-Oriented Design
 - Street Coder: The Rules to Break and How to Break Them
 - Software Architecture: the Hard Part
 - Test Driven Development
@@ -44,23 +51,28 @@ title: "All books"
 - Ansible for DevOps
 - Architecture Modernization
 - Azure Security
+- Azure Infrastructure as Code
 - Building Event-Driven Microservices
 - Building Evolutionary Architecture
 - Building Microservices
 - Clean Agile
+- Cloud Observability in Action
 - Container Security
 - Continuous Delivery
 - Continuous Integration
 - Design Patterns for Cloud Native Applications
 - Devops Handbook
 - Enterprise Integration Patterns
+- Google Platform in Action
 - Le test en mode Agile
 - Lean Microservices
 - Learning Dapr
 - Microservices Patterns
+- Microsoft Azure in Action
 - The Scrum Anti-Patterns Guide
 - Terraform In Action
 - Terraform Up & Running
+- Think Distributed Systems
 - User Stories Applied
 
 ## Kubernetes tooling
@@ -93,6 +105,7 @@ title: "All books"
 - Le modèle google
 - Le principe 80/20
 - Lean pour les managers
+- Lead Developer Career Guide
 - Software Engineering at Google
 - Team Topology
 - The Mythical Man Month
@@ -121,6 +134,7 @@ title: "All books"
 - gRPC Microservices in Go
 - Learn Concurrent Programming with Go
 - The Go Programming Language
+- Shipping Go
 - 100 Go Mistakes
 
 ### Python (and IA)
@@ -137,16 +151,25 @@ title: "All books"
 - Elixir in Action Third Edition
 - Phoenix in Action
 
+### Elm
+
+- Elm in Action
+
 ### C#
 
 - Concurrency in C# Cookbook
   - Loaned to Mickael C.
+- C# Concurrency
 - Dependency Injection
 - Modern Api Design with ASP.NET 2
 
 ### F#
 
 - F# In Action
+
+### Java
+
+- Quarkus in Action
 
 ## Databases, event broker, tools, network and performances
 
@@ -163,6 +186,7 @@ title: "All books"
 - Neo4j in Action
 - ScyllaDB In Action
 - PostreSQL Up & Running
+- PostgreSQL Mistakes and How to Avoid Them
 
 _is there a typo or miss arrangement somewhere ? Yes, probably. Some books could be pushed into multiple categories_
 
