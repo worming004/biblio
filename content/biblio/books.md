@@ -40,10 +40,11 @@ title: "All books"
 - Simple Object-Oriented Design
 - Street Coder: The Rules to Break and How to Break Them
 - Software Architecture: the Hard Part
-- Test Driven Development
+- Test Driven Development By Example
 - The Pragmatic Programmer
 - The Clean Coder
 - Unit Testing Principles, Practice, and Patterns
+  - Loaned to Kevin Marra
 - Working Effectively with Legacy Code
 
 ## DevOps, between business, architecture, microservices and kubernetes
@@ -158,7 +159,6 @@ title: "All books"
 ### C#
 
 - Concurrency in C# Cookbook
-  - Loaned to Mickael C.
 - C# Concurrency
 - Dependency Injection
 - Modern Api Design with ASP.NET 2
