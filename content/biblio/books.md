@@ -78,6 +78,7 @@ title: "All books"
 
 ## Kubernetes tooling
 
+- Acing the Certified Kubernetes Administrator Exam, Second Edition
 - BDD In Action Second Edition
 - Certified Kubernetes Administrator (CKA) Study Guide
 - Certified Kubernetes Application Developer (CKAD) Study Guide
@@ -180,6 +181,7 @@ title: "All books"
 - Event Streams In Action
 - Graph Databases
 - Hugo in Action
+- Just Use Postgres!
 - Kafka: The Definitive Guide
 - Kafka Streams In Action Second Edition
 - MongoDB: The Definitive Guide
