@@ -18,7 +18,9 @@ title: "All books"
 - Effective Software Testing
 - Efficient Linux at the Command Line
 - Extreme Programming Explained
+ - Loaned to Andréa Bénétti
 - Five Line of Code
+  - Loaned to Fédérico Fisicaro
 - Fundamentals of Software Architecture
 - Good Code, Bad Code
 - Head First Design Patterns
@@ -35,6 +37,7 @@ title: "All books"
 - Patterns of Enterprise Application Architecture
 - Patterns of Distributed Systems
 - Refactoring
+  - Loaned to Ahmed Zarioh
 - RESTful Web API Patterns & Practices Cookbook
 - Security Chaos Engineering Sustaining Resilience in Software and Systems
 - Simple Object-Oriented Design
@@ -44,7 +47,6 @@ title: "All books"
 - The Pragmatic Programmer
 - The Clean Coder
 - Unit Testing Principles, Practice, and Patterns
-  - Loaned to Kevin Marra
 - Working Effectively with Legacy Code
 
 ## DevOps, between business, architecture, microservices and kubernetes
