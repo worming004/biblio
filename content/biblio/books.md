@@ -1,6 +1,4 @@
 ---
-title: "All books"
----
 
 # Here is my personal library
 
@@ -18,7 +16,7 @@ title: "All books"
 - Effective Software Testing
 - Efficient Linux at the Command Line
 - Extreme Programming Explained
- - Loaned to Andréa Bénétti
+  - Loaned to Andréa Bénétti
 - Five Line of Code
   - Loaned to Fédérico Fisicaro
 - Fundamentals of Software Architecture
