@@ -34,8 +34,7 @@
 - Monolith to Microservices
 - Patterns of Enterprise Application Architecture
 - Patterns of Distributed Systems
-- Refactoring
-  - Loaned to Ahmed Zarioh
+- Refactoring Improving the Design of Existing Code
 - RESTful Web API Patterns & Practices Cookbook
 - Security Chaos Engineering Sustaining Resilience in Software and Systems
 - Simple Object-Oriented Design
