@@ -101,6 +101,7 @@
 
 - Accelerate
 - Crossing the Chasm
+  - Jordan Caracotte
 - Green It
 - Hyperscale And Microcare
 - Le modèle google
