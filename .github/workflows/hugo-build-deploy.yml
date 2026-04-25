@@ -30,7 +30,7 @@ jobs:
   build:
     runs-on: ubuntu-latest
     env:
-      HUGO_VERSION: 0.108.0
+      HUGO_VERSION: 0.160.0
     steps:
       - name: Checkout repository and submodules
         uses: actions/checkout@v4
