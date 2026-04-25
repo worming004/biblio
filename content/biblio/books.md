@@ -1,4 +1,5 @@
 ---
+title: "All books"
 ---
 
 # Here is my personal library
